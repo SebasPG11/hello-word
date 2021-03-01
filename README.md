@@ -1,2 +1,1 @@
-# hello-word
-Just another repository
+Soy Sebas
